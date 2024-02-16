@@ -1,0 +1,2 @@
+class PersistEntityException(RuntimeError):
+    pass
